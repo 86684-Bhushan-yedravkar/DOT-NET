@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\.net work\ass1 q3\bin\Debug\ass1 q3.exe.config
+C:\Users\Admin\Desktop\.net work\ass1 q3\bin\Debug\ass1 q3.exe
+C:\Users\Admin\Desktop\.net work\ass1 q3\bin\Debug\ass1 q3.pdb
+C:\Users\Admin\Desktop\.net work\ass1 q3\obj\Debug\ass1 q3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.net work\ass1 q3\obj\Debug\ass1 q3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.net work\ass1 q3\obj\Debug\ass1 q3.exe
+C:\Users\Admin\Desktop\.net work\ass1 q3\obj\Debug\ass1 q3.pdb
